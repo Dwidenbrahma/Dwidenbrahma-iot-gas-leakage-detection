@@ -111,7 +111,6 @@ iot-gas-detection-embedded-system/
 # 👨‍💻 Author
 
 **Dwiden Brahma (NIT Warangal)**  
-Embedded Systems | IoT Developer | Robotics Enthusiast
 
 ---
 
